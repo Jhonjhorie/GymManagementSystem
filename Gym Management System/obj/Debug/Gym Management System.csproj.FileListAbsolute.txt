@@ -1,0 +1,81 @@
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.AdminSettings.resources
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ChangePassword.resources
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.EquipmentsControl.resources
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.ForgotPassword.resources
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.GymStaff.resources
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.MembersControl.resources
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.DashboardControl.resources
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.View.Admin.Mainform.resources
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\Users\jhonj\OneDrive\Desktop\Gym Management System\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\GMSDB.mdf
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\GMSDB_log.ldf
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\Gym Management System.exe.config
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\Gym Management System.exe
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\Gym Management System.pdb
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\RestSharp.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Buffers.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.CodeDom.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Data.Odbc.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Data.OleDb.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Data.SqlClient.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Drawing.Common.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.IO.Packaging.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.IO.Ports.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Memory.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Security.Permissions.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym Management System.csproj.AssemblyReference.cache
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.AdminSettings.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.ChangePassword.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.EquipmentsControl.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.ForgotPassword.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.GymStaff.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.MembersControl.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.DashboardControl.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.View.Admin.Mainform.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.Login.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.Properties.Resources.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym Management System.csproj.GenerateResource.cache
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym Management System.csproj.Fody.CopyLocal.cache
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym Management System.csproj.CopyComplete
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym Management System.exe
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym Management System.pdb
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\AForge.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\zxing.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\bin\Debug\zxing.presentation.xml
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.MembershipApplication.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.MembershipDisplayID.resources
+C:\Users\jhonj\OneDrive\Desktop\GymManagementSystem\Gym Management System\obj\Debug\Gym_Management_System.MembershipViewDetail.resources
